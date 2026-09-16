@@ -5,6 +5,7 @@
 - study — 공부하다
 - learn — 배우다
 - practice — 연습하다
+- review — 복습하다
 - help — 돕다
 - plan — 계획하다
 - leave — 떠나다
@@ -28,6 +29,9 @@
 - arrive — 도착하다
 - prepare — 준비하다
 - check — 확인하다/점검하다
+- update — 업데이트하다/알려주다
+- share — 공유하다
+- send — 보내다
 - run — 달리다
 
 ## State / descriptive words
@@ -47,6 +51,12 @@
 - every day — 매일
 - everyday — 일상적인/매일의 (형용사)
 - go home — 집에 가다
+- arrive home — 집에 도착하다
+- arrive at + place — 장소에 도착하다
+- prepare for + event — ~을 준비하다
+- send + object + to + person — ~을 ~에게 보내다
+- share + object + with + person — ~을 ~와 공유하다
+- update + person — ~에게 업데이트/상황을 알려주다
 - work at a game company — 게임 회사에서 일하다
 - worried about — ~을 걱정하다
 - want to + verb — ~하고 싶다
@@ -82,3 +92,7 @@
 - arrive → arrived
 - prepare → prepared
 - check → checked
+- review → reviewed
+- update → updated
+- share → shared
+- send → sent
