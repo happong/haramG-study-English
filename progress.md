@@ -12,10 +12,10 @@
 - DAY 19 — 2026-08-21
 - DAY 20 — 2026-08-24
 - DAY 21 — 2026-08-26
-- DAY 22 — 2026-08-27 (상세 기록 복구 필요)
-- DAY 23 — 2026-09-09 (상세 기록 복구 필요)
-- DAY 24 — 2026-09-10 (상세 기록 복구 필요)
-- DAY 25 — 2026-09-15 (상세 기록 복구 필요)
+- DAY 22 — 2026-08-27 (날짜만 확인, 세부 기록 미확인)
+- DAY 23 — 2026-09-09 (날짜만 확인, 세부 기록 미확인)
+- DAY 24 — 2026-09-10 (날짜만 확인, 세부 기록 미확인)
+- DAY 25 — 2026-09-15 (확인 가능한 채점 요약·오답·작문 피드백 복구)
 - DAY 26 — 2026-09-16
 
 ## Operating rule
@@ -23,4 +23,4 @@ DAY increases only when an actual new study date is entered. Dates skipped witho
 SET is the sequence of problem sets within a DAY and resets to SET 1 on a new DAY.
 
 ## Sync note
-DAY22~25의 상세 문제·채점·신규 단어 데이터는 대화 기록과 GitHub 간 누락으로 인해 완전 복구되지 않았으며, 확인 가능한 내용부터 순차적으로 보완한다.
+DAY22~25 복구본은 `daily/recovery-DAY22-DAY25.md`에 저장했다. 확인 가능한 기록만 반영했으며, 확인되지 않은 문항·정답·점수·단어는 임의로 작성하지 않았다.
