@@ -1,9 +1,9 @@
 # English Study Progress
 
-- Last completed study date: 2026-09-15
-- Last DAY: DAY 25
-- Next study date: 2026-09-16
-- Next DAY: DAY 26
+- Last completed study date: 2026-09-17
+- Last DAY: DAY 26
+- Next study date: 미정
+- Next DAY: DAY 27
 - Current stage: Lv.5 진입 단계 / 과거형 Lv.4→Lv.5 학습 중
 
 ## DAY history
@@ -16,7 +16,7 @@
 - DAY 23 — 2026-09-09 (SET 1: 86/100)
 - DAY 24 — 2026-09-10 (SET 1: 78/100)
 - DAY 25 — 2026-09-15 (세부 채점 기록 복구 / 전체 총점 미확인)
-- DAY 26 — 2026-09-16 (미학습 / 미완료)
+- DAY 26 — 2026-09-17 (SET1: 정답19/부분정답7/오답6/미제출1/출제오류제외1, 총34문항. 2026-09-16 시도는 미완료로 카운트 안 함)
 
 ## Operating rule
 DAY increases only when an actual new study date is entered. Dates skipped without study do not create DAYS.

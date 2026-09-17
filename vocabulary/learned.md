@@ -33,6 +33,8 @@
 - share — 공유하다
 - send — 보내다
 - run — 달리다
+- take — 타다/가져가다/(시간이) 걸리다
+- wait — 기다리다
 
 ## State / descriptive words
 - busy — 바쁜
@@ -65,6 +67,9 @@
 - so — 결과
 - but — 대조
 - and — 연결
+- take a taxi — 택시를 타다
+- take a break — 휴식을 취하다
+- wait for + 대상 — ~을 기다리다
 
 ## Known irregular past forms
 - go → went
@@ -72,6 +77,7 @@
 - sleep → slept
 - run → ran
 - meet → met
+- take → took
 
 ## Known regular past forms
 - work → worked
@@ -96,3 +102,4 @@
 - update → updated
 - share → shared
 - send → sent
+- wait → waited
