@@ -21,7 +21,7 @@
 - want → wants — 3인칭 단수 주어 뒤 동사 -s 누락.
 - because / so의 이유·결과 관계 — DAY26에서 반복 오답. because 뒤에 결과를, so 뒤에 결과를 놓는 순서를 헷갈림.
 - wait for + 목적어 — "wait for to + 목적어"처럼 전치사를 중복 사용함.
-- 연결 문장(so/because)에서 두 번째 절의 주어 생략 — "He was late, so took a taxi." 처럼 주어 없이 씀. 영어는 절마다 주어가 필요함을 반복 강조 필요.
+- 연결 문장(so/because)에서 두 번째 절의 주어 생략 — "He was late, so took a taxi." 처럼 주어 없이 씀. **and/but는 같은 주어일 때 생략 가능하지만(He went home and cooked dinner.), so/because는 원인·결과라는 별개의 두 명제를 잇는 것이라 항상 주어가 필요함.** 이 구분을 반복 강조 필요.
 - be going to + 동사원형 — "I am going to sent..."처럼 동사원형 대신 과거형을 씀.
 
 ## Known recurring patterns
@@ -44,3 +44,5 @@
 - 관사(the) 누락 주의: the materials, the meeting, the team
 - 시간 표현 앞 전치사 at 누락: finished work at 10:30 p.m.
 - wait for + 목적어 (wait for the bus, not wait to the bus)
+- and/but로 연결 시 같은 주어면 생략 가능 (He went home and cooked dinner.) / so, because로 연결 시에는 주어 생략 불가 (so he took a taxi / because I was tired)
+- for + 기간(지속 시간, ~동안) vs at(시점) / in(~후·기간 안) / on(요일·날짜) / since(시작 시점) 구분

@@ -17,3 +17,6 @@
 - after + 문장/시간 표현
 - start work / finish work
 - prepare + 목적어 / prepare for + 목적
+- and/but 연결: 같은 주어면 두 번째 절 주어 생략 가능 (He went home and cooked dinner.)
+- so/because 연결: 원인·결과의 별개 명제이므로 두 번째 절에도 항상 주어 필요 (He was late, so he took a taxi. / I was tired because I decided...가 아니라 I decided... because I was tired.)
+- for + 기간(지속 시간) vs at(시점) / in(~후·기간 안) / on(요일·날짜) / since(시작 시점)
