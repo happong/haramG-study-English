@@ -27,3 +27,9 @@
 - wait — 기다리다 → waited (wait for + 대상)
 
 > 2026-09-16 시도는 미완료로 처리되어 DAY로 카운트하지 않음. 실제 DAY26은 2026-09-17.
+
+## DAY 28 — 2026-09-22
+- call — 전화하다/부르다 → called (call a taxi, call + 목적어)
+- forget — 잊다 → forgot (forget to + 동사원형)
+
+> eat → ate: 공식적으로 가르친 적 없으나 DAY28 자유작문(33번)에서 사용자가 정확히 사용해 학습 완료로 등록.

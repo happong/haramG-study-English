@@ -18,7 +18,7 @@
 - wait → waited — DAY26 신규 학습 직후 과거형 누락. DAY27에서도 한글→영어 작문 시 과거형을 놓침(빈칸채우기에서는 정확). 반복 확인 필요.
 - share → shared — 과거형 누락(DAY26). DAY27 오류수정 문제는 출제 결함으로 판단 보류.
 - take a break — "쉬다/휴식을 취하다"인데 DAY26엔 "타는 것을 멈추다"로 오해, DAY27엔 핵심 동사 take를 빠뜨리고 "decided to break"라고 씀. take a break를 하나의 덩어리로 계속 연습 필요.
-- want → wants — 3인칭 단수 주어 뒤 동사 -s 누락. DAY26, DAY27 모두 반복. **최우선 복습 대상.**
+- want → wants — 3인칭 단수 주어 뒤 동사 -s 누락. DAY26, DAY27, DAY28 모두 반복. DAY28 오류수정 문제(19번)에서는 오류 자체를 인지하지 못함. **최우선 복습 대상, 개념 재설명 필요.**
 - get better at English — DAY27에서 `at`을 빠뜨리고 "get better English"라고 씀.
 - because / so의 이유·결과 관계 — DAY26, DAY27 모두 반복. because 뒤에는 원인을, 앞 절에 결과를 놓아야 하는데 순서를 반대로 씀. **최우선 복습 대상.**
 - wait for + 목적어 — DAY26엔 "wait for to + 목적어"(전치사 중복), DAY27엔 "wait + 목적어"(for 자체 누락). for 유무를 계속 헷갈림.
@@ -27,6 +27,11 @@
 - be going to + 동사원형 — DAY26 "I am going to sent...", DAY27 "We were going to share..."(be동사 자체를 과거형으로 씀). be going to는 미래 예정이므로 am/is/are를 써야 함.
 - minutes 철자 — minuets(DAY26)/minuts(DAY27)로 계속 틀림.
 - do/does/did 부정문 주어 일치 — DAY27 "I doesn't prepare"(주어 I에 3인칭 단수 doesn't를 붙임). 과거부정은 didn't, 현재부정은 do/does 구분 필요. (신규 패턴)
+- call → called — DAY28 신규 학습 직후 과거형 누락(현재형으로 씀, 2번·6번). wait 때와 같은 패턴 — 새 동사 배우면 처음엔 과거형을 자주 놓침.
+- forget to + 동사원형 — DAY28 "I forgot to the materials"처럼 to 뒤에 동사 없이 명사를 바로 붙임. forget to는 반드시 동사원형이 와야 함(forget + 명사와는 다른 구조).
+- send + 목적어 + to + 사람 — DAY28에서 to가 통째로 누락("send the materials the team").
+- schedule — 철자 오류(scedule) 신규 확인.
+- 자유작문 문장 수 조건 미준수 — DAY27, DAY28 모두 "3문장 이상" 조건을 못 채우고 1~2문장으로 제출. 문장 수 명확히 세도록 안내 필요.
 
 ## Known recurring patterns
 - go home (not go to home)

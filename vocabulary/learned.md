@@ -35,6 +35,8 @@
 - run — 달리다
 - take — 타다/가져가다/(시간이) 걸리다
 - wait — 기다리다
+- call — 전화하다/부르다
+- forget — 잊다
 
 ## State / descriptive words
 - busy — 바쁜
@@ -70,6 +72,8 @@
 - take a taxi — 택시를 타다
 - take a break — 휴식을 취하다
 - wait for + 대상 — ~을 기다리다
+- call a taxi — 택시를 부르다
+- forget to + 동사원형 — ~하는 것을 잊다
 
 ## Known irregular past forms
 - go → went
@@ -78,6 +82,8 @@
 - run → ran
 - meet → met
 - take → took
+- forget → forgot
+- eat → ate
 
 ## Known regular past forms
 - work → worked
@@ -103,3 +109,4 @@
 - share → shared
 - send → sent
 - wait → waited
+- call → called
