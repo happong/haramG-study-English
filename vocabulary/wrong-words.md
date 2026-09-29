@@ -31,7 +31,13 @@
 - forget to + 동사원형 — DAY28 "I forgot to the materials"처럼 to 뒤에 동사 없이 명사를 바로 붙임. forget to는 반드시 동사원형이 와야 함(forget + 명사와는 다른 구조).
 - send + 목적어 + to + 사람 — DAY28에서 to가 통째로 누락("send the materials the team").
 - schedule — 철자 오류(scedule) 신규 확인.
-- 자유작문 문장 수 조건 미준수 — DAY27, DAY28 모두 "3문장 이상" 조건을 못 채우고 1~2문장으로 제출. 문장 수 명확히 세도록 안내 필요.
+- 자유작문 문장 수 조건 미준수 — DAY27, DAY28 모두 "3문장 이상" 조건을 못 채우고 1~2문장으로 제출. DAY29는 아예 미제출. 문장 수 명확히 세도록 안내 필요.
+- 형용사(late, tired 등)를 동사처럼 취급 — DAY29 "I lated", "I tired"처럼 형용사에 -ed를 붙이거나 be동사를 생략함. **형용사는 반드시 be동사(am/is/are, was/were)와 함께 써야 함.** 신규 확인된 중요 개념 오류, 최우선 복습 필요.
+- 3인칭 단수 -s 과잉 일반화 — DAY29 "they practices"처럼 복수 주어(they)에도 -s를 붙임. 3인칭 단수 규칙 재설명 후 나타난 부작용. **-s는 he/she/it/단수명사에만, I/you/we/they는 동사원형**이라는 점을 명확히 구분해서 다시 설명 필요.
+- 동사 어미 이중 표시 — DAY29 "checkeds"(check+ed+s)처럼 과거형(-ed)과 3인칭단수 현재형(-s)을 동시에 붙임. 하나만 선택해야 함(과거: checked / 현재 3인칭단수: checks).
+- forget to + 동사원형 — 여전히 불안정(DAY29에서도 "forgets the materials", "forgot call a taxi"(to 누락), "forgot the materials but bring"). 누적 4회차 이상 반복.
+- 주어 정보 보존 — DAY29 1번에서 원문 "그는"(he)을 "She"로 바꿔 씀. 문제의 주어·성별 등 원래 정보를 그대로 유지해야 함.
+- go → went — DAY29에서 "wen"으로 철자 오류(신규).
 
 ## Known recurring patterns
 - go home (not go to home)
@@ -57,3 +63,6 @@
 - for + 기간(지속 시간, ~동안) vs at(시점) / in(~후·기간 안) / on(요일·날짜) / since(시작 시점) 구분
 - be going to 앞 be동사는 미래 예정이면 am/is/are (was/were를 쓰면 "~할 예정이었다"는 다른 뜻이 됨)
 - do/does/did 부정문의 주어 일치 (I didn't / he doesn't, I doesn't는 오류)
+- 형용사(late, tired, busy 등)는 be동사(am/is/are/was/were)와 함께 쓰고, 형용사 자체에 -ed를 붙이지 않는다 (I was late, not I lated)
+- 3인칭 단수 -s는 주어가 he/she/it/단수명사(team 포함)일 때만 붙이고, I/you/we/they에는 붙이지 않는다
+- 한 동사에 -ed(과거)와 -s(3인칭단수 현재)를 동시에 붙이지 않는다 (checked 또는 checks 중 하나만)

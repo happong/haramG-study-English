@@ -1,9 +1,9 @@
 # English Study Progress
 
-- Last completed study date: 2026-09-22
-- Last DAY: DAY 28
+- Last completed study date: 2026-09-23
+- Last DAY: DAY 29
 - Next study date: 미정
-- Next DAY: DAY 29
+- Next DAY: DAY 30
 - Current stage: Lv.5 진입 단계 / 과거형 Lv.4→Lv.5 학습 중
 
 ## DAY history
@@ -19,6 +19,7 @@
 - DAY 26 — 2026-09-17 (SET1: 정답19/부분정답7/오답6/미제출1/출제오류제외1, 총34문항. 2026-09-16 시도는 미완료로 카운트 안 함)
 - DAY 27 — 2026-09-21 (SET1: 정답22/부분정답6/오답4/출제오류제외1, 총33문항. 09/18~09/20 미학습, 신규 단어 없이 복습만 진행)
 - DAY 28 — 2026-09-22 (SET1: 정답21/부분정답5/오답7, 총33문항. 신규 단어: call, forget. want→wants가 최우선 복습 대상으로 계속 남음)
+- DAY 29 — 2026-09-23 (SET1: 정답22/부분정답4/오답6/확인필요1/미제출1, 총34문항(잠정). 신규 단어: miss, bring. 형용사+be동사 구조 오류(late/tired), 3인칭단수 -s 과잉일반화(they practices)가 신규 최우선 복습 대상으로 등록됨. 7번·34번 답변 대기 중)
 
 ## Operating rule
 DAY increases only when an actual new study date is entered. Dates skipped without study do not create DAYS.

@@ -37,6 +37,8 @@
 - wait — 기다리다
 - call — 전화하다/부르다
 - forget — 잊다
+- miss — 놓치다
+- bring — 가져오다
 
 ## State / descriptive words
 - busy — 바쁜
@@ -74,6 +76,7 @@
 - wait for + 대상 — ~을 기다리다
 - call a taxi — 택시를 부르다
 - forget to + 동사원형 — ~하는 것을 잊다
+- miss the bus / miss the meeting — 버스를/회의를 놓치다
 
 ## Known irregular past forms
 - go → went
@@ -84,6 +87,7 @@
 - take → took
 - forget → forgot
 - eat → ate
+- bring → brought
 
 ## Known regular past forms
 - work → worked
@@ -110,3 +114,4 @@
 - send → sent
 - wait → waited
 - call → called
+- miss → missed

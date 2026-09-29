@@ -33,3 +33,7 @@
 - forget — 잊다 → forgot (forget to + 동사원형)
 
 > eat → ate: 공식적으로 가르친 적 없으나 DAY28 자유작문(33번)에서 사용자가 정확히 사용해 학습 완료로 등록.
+
+## DAY 29 — 2026-09-23
+- miss — 놓치다 → missed (miss the bus, miss the meeting)
+- bring — 가져오다 → brought (bring + 목적어)

@@ -20,3 +20,6 @@
 - and/but 연결: 같은 주어면 두 번째 절 주어 생략 가능 (He went home and cooked dinner.)
 - so/because 연결: 원인·결과의 별개 명제이므로 두 번째 절에도 항상 주어 필요 (He was late, so he took a taxi. / I was tired because I decided...가 아니라 I decided... because I was tired.)
 - for + 기간(지속 시간) vs at(시점) / in(~후·기간 안) / on(요일·날짜) / since(시작 시점)
+- 3인칭 단수 현재형 -s: 주어가 he/she/it/단수명사(team 포함)일 때만 동사에 -s를 붙임 (She wants, The team practices). I/you/we/they는 동사원형 (I want, they practice).
+- 형용사(late, tired, busy 등)는 동사가 아니므로 -ed를 붙이지 않고, be동사(am/is/are/was/were)와 함께 씀 (I was late, not I lated).
+- 한 동사에 -ed(과거)와 -s(3인칭단수 현재)를 동시에 붙이지 않음 — 시제 표시는 하나만 선택 (checked 또는 checks).
