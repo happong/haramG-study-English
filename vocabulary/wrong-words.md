@@ -38,6 +38,15 @@
 - forget to + 동사원형 — 여전히 불안정(DAY29에서도 "forgets the materials", "forgot call a taxi"(to 누락), "forgot the materials but bring"). 누적 4회차 이상 반복.
 - 주어 정보 보존 — DAY29 1번에서 원문 "그는"(he)을 "She"로 바꿔 씀. 문제의 주어·성별 등 원래 정보를 그대로 유지해야 함.
 - go → went — DAY29에서 "wen"으로 철자 오류(신규).
+- team + 동사 -s — DAY 진도와 별개로 진행한 2026-09-30 복습 세션에서 "team prepare", "team practice"(둘 다 -s 누락)로 반복. 3인칭단수 -s 규칙은 알지만(wants, they practice 등은 정확) "team"을 단수로 인식하는 것 자체를 계속 헷갈려함(직접 질문함). **최우선 복습 대상으로 격상, team=단수라는 개념 자체를 반복 강조 필요.**
+- they + 동사 -s — 2026-09-30 복습에서도 "they practices"로 재발(DAY29와 동일 오류, 3회 이상 반복).
+- forget to + 동사원형 위치 — 2026-09-30 복습 "forgot call to the office"(to를 call 뒤 잘못된 위치에 넣음). forget to+동사원형 구조가 누적 5회 이상 불안정.
+- take a break — 2026-09-30 복습에서 "took a break" 대신 "break out"(다른 뜻)을 만들어 씀. 여전히 불안정.
+- 과거형 선택 문제에서 원형을 다시 씀 — 2026-09-30 복습 21번, 선택지(forgot/forgetted) 중 하나를 안 고르고 "forget"(원형)을 그대로 씀. 문제 유형 이해 재확인 필요.
+- 철자 오류 누적: reviewd(reviewed), arroved(arrived), warried(worried, 2회째), vring(bring) — 2026-09-30 복습에서 확인.
+- late for + 명사(장소/행사) vs late to — 2026-09-30 복습에서 "late to the meeting"으로 씀. late for가 맞음.
+- arrive at + work/office 등에서 at 누락 — 2026-09-30 복습 27번 "arrived work late"(at 누락).
+- miss — 학습 1회(DAY29) 후 곧바로 이어진 복습에서 자유 작문 시 단어 자체를 기억 못함("놓치다..기억안난다"). 아직 완전히 정착되지 않았으므로 계속 반복 노출 필요(정상적인 과정, 우려할 정도는 아님).
 
 ## Known recurring patterns
 - go home (not go to home)
