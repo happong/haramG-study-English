@@ -47,6 +47,14 @@
 - late for + 명사(장소/행사) vs late to — 2026-09-30 복습에서 "late to the meeting"으로 씀. late for가 맞음.
 - arrive at + work/office 등에서 at 누락 — 2026-09-30 복습 27번 "arrived work late"(at 누락).
 - miss — 학습 1회(DAY29) 후 곧바로 이어진 복습에서 자유 작문 시 단어 자체를 기억 못함("놓치다..기억안난다"). 아직 완전히 정착되지 않았으므로 계속 반복 노출 필요(정상적인 과정, 우려할 정도는 아님).
+- they + 동사 -s — DAY30(2026-10-12)에서도 3번(2, 11, 15번) 반복. 특히 15번은 오류수정 문제에서 틀린 문장("They practices")을 고치지 않고 그대로 다시 씀 — 오류 자체를 인지 못하는 상태. **누적 6회 이상, 최우선 복습 대상 유지. 짧고 반복적인 미니 드릴(they+원형만) 필요.**
+- forget to + 동사원형 위치 — DAY30에서도 2번(5, 16번) 반복, 특히 16번은 거의 수정 시도를 안 하고 철자 오류만 고침. **누적 6회 이상, 최우선 복습 대상.**
+- 형용사+be동사 — DAY30에서 "I lated"(4, 18번)가 다시 나타났고, 18번은 원래 맞던 "was late"를 오히려 "lated"로 잘못 고침(퇴보). "team worried"(be동사 was 누락, 6번)도 확인. 계속 최우선 복습.
+- miss + 전치사 — DAY30 신규 확인: "missed to the bus"(18, 27번)처럼 miss 뒤에 불필요한 전치사 to를 붙임. miss는 전치사 없이 바로 목적어.
+- miss 의미 범위 — DAY30 26번 "missed the materials"처럼 miss를 물건에도 씀. miss는 버스/회의/마감처럼 시간이 정해진 대상에만 쓰고, 물건을 안 가져온 건 forget to bring을 써야 함.
+- missed → missied/missies로 신규 철자 오류 (DAY30, 26·13번).
+- today morning — DAY30 27번에서 "this morning"이 맞는데 "today morning"으로 씀.
+- take a break — DAY30 17번에서 구조("take a break")는 복구했으나 과거형(took) 누락. 꾸준히 불안정.
 
 ## Known recurring patterns
 - go home (not go to home)
